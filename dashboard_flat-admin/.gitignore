@@ -19,5 +19,6 @@
 
 # Ignore Byebug command history file.
 .byebug_history
-yarn-error.log
-node_modules/
+/yarn-error.log
+/node_modules
+/public/fonts

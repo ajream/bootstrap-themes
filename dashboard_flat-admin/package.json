@@ -4,6 +4,8 @@
   "description": "use yarn in rails project.",
   "main": "index.js",
   "author": "ajream",
+  "repository": "https://github.com/ajream/bootstrap-themes.git",
+  "scripts": { "postinstall": "./npm_postinstall.sh" },
   "license": "MIT",
   "dependencies": {
     "ace-builds": "^1.2.5",
